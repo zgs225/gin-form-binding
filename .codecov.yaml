@@ -1,4 +1,4 @@
-coverage:
-  ignore:
-    - "**/examples/**"
-    - "**/vendor/**"
+ignore:
+  - "*_test.go"
+  - "**/examples/**"
+  - "**/vendor/**"
