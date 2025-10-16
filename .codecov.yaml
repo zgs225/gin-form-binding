@@ -1,4 +1,4 @@
 ignore:
   - "*_test.go"
-  - "**/examples/**"
-  - "**/vendor/**"
+  - "examples/"
+  - "vendor/"
